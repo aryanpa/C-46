@@ -1,0 +1,36 @@
+Features of Game
+
+caracters:
+
+ pc: 
+1. bow and arrows
+
+npc:
+1.boy
+2.girl
+3.balloons
+4.heart
+
+story:
+
+player will collect all the heart to impress the girl.
+ 
+goal: 
+
+to collect the hearts to win.
+
+rule: 
+
+1.mouse Control
+2.space button
+
+balanced: 
+adaptivity:
+
+1.number of arrows.
+
+chance vs skills: 
+
+feedBack:
+
+celebreation
